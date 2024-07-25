@@ -1,0 +1,12 @@
+ platform :ios, '9.0'
+
+target 'StudentApp' do
+  
+  use_frameworks!
+
+  # Pods for StudentApp
+  
+    pod 'lottie-ios'
+   
+
+end
